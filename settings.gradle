@@ -1,0 +1,2 @@
+include ':app', ':core-architecture', ':core-networking', ':core-utils', ':core-multithreading'
+rootProject.name='CoreLibraryExample'
